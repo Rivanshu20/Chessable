@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "pak": "^0.1.1",
+    "pkg": "^5.8.1",
+    "scripts": "^0.1.0",
+    "vite": "^6.0.11"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
