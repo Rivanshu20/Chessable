@@ -4,9 +4,9 @@ This project is built with a simple approach to enhance our web development skil
 building. Of course there are many aspects in this project where improvisation will be implemented
 with time. Keeping that in mind, we have tried our best to deliver a functional and user-friendly
 website that meets the project requirements.  
-Liscence - MIT License. Copyright (c) 2023 Prathmesh Kale.  
+Liscence - MIT License. Copyright (c) 2023 Rivanshu Sharma.  
 
-https://prathmesh-ka-github.github.io/Chessable/
+
 
 ![Chessable landing page](image-1.png)
 
